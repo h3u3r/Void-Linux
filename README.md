@@ -19,4 +19,5 @@ Mate Desktop
 Já com o sudo ativado para o usuário normal, instalação do XOrg, OpenBox mínimo e o gerenciador de login LXDM:
 
     $ su - edps
+    
     $ sudo xbps-install xorg lxdm openbox obconf obmenu lxappearance lxappearance-obconf leafpad sakura thunar-archive-plugin thunar-volman Thunar
